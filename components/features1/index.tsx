@@ -61,7 +61,7 @@ export const Features1 = () => {
                 }}
               >
                 Uygulamamız geliştirildikten sonra iOS cihazların kolay
-                erişebilmesi için App Store'a yüklenecektir.
+                erişebilmesi için App Store&apos;a yüklenecektir.
               </Text>
             </Flex>
           </Flex>
@@ -84,7 +84,7 @@ export const Features1 = () => {
                 }}
               >
                 Uygulamamız geliştirildikten sonra Android cihazların kolay
-                erişebilmesi için Play Store'a yüklenecektir.
+                erişebilmesi için Play Store&apos;a yüklenecektir.
               </Text>
             </Flex>
           </Flex>
